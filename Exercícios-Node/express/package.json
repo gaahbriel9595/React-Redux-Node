@@ -1,0 +1,15 @@
+{
+  "name": "exercicios_express",
+  "version": "1.0.0",
+  "description": "primeiros exercicios usando express",
+  "main": "ex05.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": "Gabriel Andrade",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
